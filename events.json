@@ -81,7 +81,7 @@
         "nombre": "Magdalena Galarza Vallejo",
         "proximo_cumpleaños": "2026-05-06",
         "status_atrasado": false,
-        "img": "img/tita.png"
+        "img": "tita.png"
     },
     {
         "nombre": "Alisson Garcia Cardenas",
@@ -103,3 +103,4 @@
     }
 
 ]
+
