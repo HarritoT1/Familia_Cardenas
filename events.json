@@ -1,0 +1,104 @@
+[
+    {
+        "nombre": "Jose Cardenas Jeronimo",
+        "proximo_cumpleaños": "2025-08-23",
+        "status_atrasado": false,
+        "img": "http://localhost:8000/img/tito.png"
+    },
+    {
+        "nombre": "Maribel Europa",
+        "proximo_cumpleaños": "2025-08-26",
+        "status_atrasado": false,
+        "img": "http://localhost:8000/img/maribel.png"
+    },
+    {
+        "nombre": "Karen Viridiana Garcia Cardenas",
+        "proximo_cumpleaños": "2025-09-04",
+        "status_atrasado": false,
+        "img": "http://localhost:8000/img/karen.jpeg"
+    },
+    {
+        "nombre": "Laura Rios Gil",
+        "proximo_cumpleaños": "2025-09-23",
+        "status_atrasado": false,
+        "img": "http://localhost:8000/img/laura.jpg"
+    }, 
+    {
+        "nombre": "Irlanda Denisse Cardenas Trejo",
+        "proximo_cumpleaños": "2025-10-25",
+        "status_atrasado": false,
+        "img": "http://localhost:8000/img/irla.jpeg"
+    },
+    {
+        "nombre": "Nicolas Sostenes Cardenas",
+        "proximo_cumpleaños": "2025-11-11",
+        "status_atrasado": false,
+        "img": "http://localhost:8000/img/pacho.png"
+    },
+    {
+        "nombre": "Harol Gael Cardenas Trejo",
+        "proximo_cumpleaños": "2025-12-15",
+        "status_atrasado": true,
+        "img": "http://localhost:8000/img/harol.png"
+    },
+    {
+        "nombre": "Melanie e Itzel",
+        "proximo_cumpleaños": "2026-01-01",
+        "status_atrasado": false,
+        "img": "http://localhost:8000/img/combination.png"
+    },
+    {
+        "nombre": "Sharon Denisse Urbina Cardenas",
+        "proximo_cumpleaños": "2026-02-17",
+        "status_atrasado": false,
+        "img": "http://localhost:8000/img/sharon.png"
+    }, 
+    {
+        "nombre": "Leidy Denisse Cardenas",
+        "proximo_cumpleaños": "2026-03-02",
+        "status_atrasado": false,
+        "img": "http://localhost:8000/img/leidy.png"
+    },
+    {
+        "nombre": "Channel Urbina Cardenas",
+        "proximo_cumpleaños": "2026-03-11",
+        "status_atrasado": false,
+        "img": "http://localhost:8000/img/channel.png"
+    },
+    {
+        "nombre": "Monica Trejo Gil",
+        "proximo_cumpleaños": "2026-04-22",
+        "status_atrasado": false,
+        "img": "http://localhost:8000/img/mama.jpg"
+    },
+    {
+        "nombre": "Jose Luis Cardenas Galarza",
+        "proximo_cumpleaños": "2026-05-04",
+        "status_atrasado": false,
+        "img": "http://localhost:8000/img/papa.jpg"
+    },
+    {
+        "nombre": "Magdalena Galarza Vallejo",
+        "proximo_cumpleaños": "2026-05-06",
+        "status_atrasado": false,
+        "img": "http://localhost:8000/img/tita.png"
+    },
+    {
+        "nombre": "Alisson Garcia Cardenas",
+        "proximo_cumpleaños": "2026-06-10",
+        "status_atrasado": false,
+        "img": "http://localhost:8000/img/alisson.png"
+    }, 
+    {
+        "nombre": "Luis Angel Cardenas Trejo",
+        "proximo_cumpleaños": "2026-06-23",
+        "status_atrasado": false,
+        "img": "http://localhost:8000/img/papitas.png"
+    },
+    {
+        "nombre": "Juan Manuel Cardenas Galarza",
+        "proximo_cumpleaños": "2026-06-24",
+        "status_atrasado": false,
+        "img": "http://localhost:8000/img/juan.png"
+    }
+]
