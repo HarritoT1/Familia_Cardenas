@@ -14,7 +14,7 @@
     {
         "nombre": "Karen Viridiana Garcia Cardenas",
         "proximo_cumpleaños": "2025-09-04",
-        "status_atrasado": true,
+        "status_atrasado": false,
         "img": "karen.jpeg"
     },
     {
@@ -32,7 +32,7 @@
     {
         "nombre": "Nicolas Sostenes Cardenas",
         "proximo_cumpleaños": "2025-11-11",
-        "status_atrasado": true,
+        "status_atrasado": false,
         "img": "pacho.png"
     },
     {
@@ -44,7 +44,7 @@
     {
         "nombre": "Melanie e Itzel",
         "proximo_cumpleaños": "2026-01-01",
-        "status_atrasado": true,
+        "status_atrasado": false,
         "img": "combination.png"
     },
     {
@@ -86,7 +86,7 @@
     {
         "nombre": "Alisson Garcia Cardenas",
         "proximo_cumpleaños": "2026-06-10",
-        "status_atrasado": true,
+        "status_atrasado": false,
         "img": "alisson.png"
     }, 
     {
@@ -103,5 +103,6 @@
     }
 
 ]
+
 
 
