@@ -100,9 +100,15 @@
         "proximo_cumpleaños": "2026-06-24",
         "status_atrasado": false,
         "img": "juan.png"
+    },
+    {
+        "nombre": "Gerardo",
+        "proximo_cumpleaños": "10/10/2002",
+        "status_atrasado": false,
+        "img": "gerardo.jfif"
     }
-
 ]
+
 
 
 
