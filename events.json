@@ -20,19 +20,19 @@
     {
         "nombre": "Laura Rios Gil",
         "proximo_cumpleaños": "2025-09-23",
-        "status_atrasado": true,
+        "status_atrasado": false,
         "img": "laura.jpg"
     }, 
     {
         "nombre": "Gerardo",
         "proximo_cumpleaños": "2025-10-10",
-        "status_atrasado": true,
+        "status_atrasado": false,
         "img": "gerardo.png"
     },
     {
         "nombre": "Irlanda Denisse Cardenas Trejo",
         "proximo_cumpleaños": "2025-10-25",
-        "status_atrasado": true,
+        "status_atrasado": false,
         "img": "irla.jpeg"
     },
     {
@@ -44,7 +44,7 @@
     {
         "nombre": "Harol Gael Cardenas Trejo",
         "proximo_cumpleaños": "2025-12-15",
-        "status_atrasado": true,
+        "status_atrasado": false,
         "img": "harol.png"
     },
     {
@@ -56,7 +56,7 @@
     {
         "nombre": "Sharon Denisse Urbina Cardenas",
         "proximo_cumpleaños": "2026-02-17",
-        "status_atrasado": true,
+        "status_atrasado": false,
         "img": "sharon.png"
     }, 
     {
@@ -68,19 +68,19 @@
     {
         "nombre": "Channel Urbina Cardenas",
         "proximo_cumpleaños": "2026-03-11",
-        "status_atrasado": true,
+        "status_atrasado": false,
         "img": "channel.png"
     },
     {
         "nombre": "Monica Trejo Gil",
         "proximo_cumpleaños": "2026-04-22",
-        "status_atrasado": true,
+        "status_atrasado": false,
         "img": "mama.jpg"
     },
     {
         "nombre": "Jose Luis Cardenas Galarza",
         "proximo_cumpleaños": "2026-05-04",
-        "status_atrasado": true,
+        "status_atrasado": false,
         "img": "papa.jpg"
     },
     {
@@ -98,7 +98,7 @@
     {
         "nombre": "Luis Angel Cardenas Trejo",
         "proximo_cumpleaños": "2026-06-23",
-        "status_atrasado": true,
+        "status_atrasado": false,
         "img": "papitas.png"
     },
     {
@@ -108,6 +108,7 @@
         "img": "juan.png"
     }
 ]
+
 
 
 
