@@ -53,13 +53,12 @@
         "status_atrasado": true,
         "img": "melanie.png"
     },
-    ,
     {
         "nombre": "Itzel",
         "proximo_cumpleaños": "2026-01-01",
         "status_atrasado": false,
         "img": "itzel.png"
-    }
+    },
     {
         "nombre": "Sharon Denisse Urbina Cardenas",
         "proximo_cumpleaños": "2026-02-17",
@@ -115,6 +114,7 @@
         "img": "juan.png"
     }
 ]
+
 
 
 
