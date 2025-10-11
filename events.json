@@ -8,7 +8,7 @@
     {
         "nombre": "Maribel Europa",
         "proximo_cumpleaños": "2025-08-26",
-        "status_atrasado": false,
+        "status_atrasado": true,
         "img": "maribel.png"
     },
     {
@@ -38,7 +38,7 @@
     {
         "nombre": "Nicolas Sostenes Cardenas",
         "proximo_cumpleaños": "2025-11-11",
-        "status_atrasado": true,
+        "status_atrasado": false,
         "img": "pacho.png"
     },
     {
@@ -50,7 +50,7 @@
     {
         "nombre": "Melanie e Itzel",
         "proximo_cumpleaños": "2026-01-01",
-        "status_atrasado": true,
+        "status_atrasado": false,
         "img": "combination.png"
     },
     {
@@ -92,7 +92,7 @@
     {
         "nombre": "Alisson Garcia Cardenas",
         "proximo_cumpleaños": "2026-06-10",
-        "status_atrasado": true,
+        "status_atrasado": false,
         "img": "alisson.png"
     }, 
     {
@@ -104,10 +104,11 @@
     {
         "nombre": "Juan Manuel Cardenas Galarza",
         "proximo_cumpleaños": "2026-06-24",
-        "status_atrasado": false,
+        "status_atrasado": true,
         "img": "juan.png"
     }
 ]
+
 
 
 
