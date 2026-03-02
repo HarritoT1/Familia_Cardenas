@@ -24,12 +24,6 @@
         "img": "laura.jpg"
     }, 
     {
-        "nombre": "Gerardo",
-        "proximo_cumpleaños": "2025-10-10",
-        "status_atrasado": false,
-        "img": "gerardo.png"
-    },
-    {
         "nombre": "Irlanda Denisse Cardenas Trejo",
         "proximo_cumpleaños": "2025-10-25",
         "status_atrasado": false,
@@ -114,6 +108,7 @@
         "img": "juan.png"
     }
 ]
+
 
 
 
